@@ -10,3 +10,6 @@ Twitter batch processing of multiple accounts, looping through user and reply_to
 
 - AI Document Understanding (The 2 pdf files as input, credit scoring.ipynb)
 Analyzing PDF files using OCI Data Science and OCI Document Understanding.
+
+- OCI Speech (audio_only.py)
+Using OCI Speech to transcribe a YouTube video from Speech to Text
