@@ -7,3 +7,6 @@ Small example of loading a .csv file, authentication, and invoking a pre-built O
 
 - AI Language (twitter_feed_sentiment.ipynb).
 Twitter batch processing of multiple accounts, looping through user and reply_to information, key phrases, and sentiment analysis using AI Language. Results pushed to autonomous database
+
+- AI Document Understanding (The 2 pdf files as input, credit scoring.ipynb)
+Analyzing PDF files using OCI Data Science and OCI Document Understanding.
